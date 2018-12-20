@@ -16,7 +16,7 @@ const Bio = () =>
         <img src={Fresh} style={{
             borderRadius : '50%',
             maxWidth: '300px'
-        }}/>
+        }} alt="I am me!" />
         <div style={{
             padding: '0 50px 0 50px',
             maxWidth: '400px',

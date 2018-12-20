@@ -5,7 +5,7 @@ const Contact = () =>
       <div style={{textAlign: 'center'}}>
         <div>
           <a href="https://github.com/ronbrz" style={{display: 'flex', justifyContent: 'center'}}>
-            <img src={github} style={{paddingRight: '5px'}}/>
+            <img src={github} style={{paddingRight: '5px'}} alt="github" />
             github.com/ronbrz
           </a>
         </div>
