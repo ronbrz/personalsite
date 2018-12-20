@@ -1,0 +1,23 @@
+.indexHead {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+body {
+  /* trying to figure out background color lmao */
+  background-color: #171243;
+  background-color: #0E0620;
+  background-color: #C6E0FF;
+  background-color: #DAD2D8;
+  background-color: #d8ddef;
+  background-color: #eee;
+}
+.myName {
+  font-size: 20em;
+}
+@media screen and (max-width: 700px) {
+  .myName {
+    font-size: 10em;
+  }
+}
